@@ -1,1 +1,28 @@
 
+ <style>
+span.one {
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;    
+    background-color: yellow; 
+}
+
+span.two {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;        
+    background-color: yellow; 
+}
+
+span.three {
+    display: block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;        
+    background-color: yellow; 
+}
+</style>
